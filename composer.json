@@ -1,0 +1,15 @@
+{
+    "name": "opqnext/yin",
+    "description": "php framework",
+    "type": "project",
+    "require": {
+        "filp/whoops": "^2.11",
+        "hassankhan/config": "^2.2"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
